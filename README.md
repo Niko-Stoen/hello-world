@@ -1,2 +1,6 @@
 # hello-world
-Let's learn GitHub!
+Let's learn things!
+
+Hello!
+
+My name is Niko and I love queso. 
